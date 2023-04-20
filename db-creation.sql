@@ -1,6 +1,6 @@
-CREATE DATABASE nombre_de_tu_bd;
+CREATE DATABASE toolsql-Clientes-Seguro;
 
-USE nombre_de_tu_bd;
+USE toolsql-Clientes-Seguro;
 
 CREATE TABLE clientes (
   numero_cliente INT PRIMARY KEY,

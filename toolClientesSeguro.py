@@ -24,5 +24,5 @@ db.commit()
 db.close()
 
 print("Los parámetros se han insertado correctamente en la base de datos.")
-
 print("test123")
+
